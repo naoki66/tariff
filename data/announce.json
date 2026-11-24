@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24 23:59",
+ "updated": "2026-11-25 00:04",
  "count": 176,
  "items": [
   {
@@ -10,6 +10,16 @@
    "date": "2026-11-26",
    "summary": "尊敬的用户，您好！因业务发展调整，2026年12月31日24时起福建省内中国移动CMCC、CMCC-WEB、CMCC-FJ、CMCC-EDU网络将停止服务，已订",
    "page_url": "https://www.10086.cn/aboutus/news/pannounce/fj/index_591_591_detail_56216.html",
+   "status": "on"
+  },
+  {
+   "id": "56270",
+   "prov": "shanghai",
+   "prov_name": "上海",
+   "title": "关于2027年度中国移动通信集团上海有限公司金山分公司公开寻源租赁营业厅用房公示（上半年）",
+   "date": "2026-11-25",
+   "summary": "中国移动通信集团上海有限公司金山分公司以公开方式寻源租赁营业厅用房的需求。现结合2027年1月-6月份金山分公司营业厅租约到期情况、房东情况及拟新建营业厅区域情",
+   "page_url": "https://www.10086.cn/aboutus/news/pannounce/sh/index_210_210_detail_56270.html",
    "status": "on"
   },
   {
@@ -870,16 +880,6 @@
    "date": "2026-10-26",
    "summary": "尊敬的客户，您好！ 1.您的通信自由和通信秘密不受侵犯，我们对您的客户资料和通信信息负有保密义务。但根据法律、行政法规规定，司法、行政机关依法要求我们提供协助和",
    "page_url": "https://www.10086.cn/aboutus/news/pannounce/jl/index_431_431_detail_56065.html",
-   "status": "on"
-  },
-  {
-   "id": "56053",
-   "prov": "shanghai",
-   "prov_name": "上海",
-   "title": "业务系统升级公告",
-   "date": "2026-10-23",
-   "summary": "尊敬的客户： 您好，为进一步提升客户服务质量，我公司计划于2026年10月23日23:00至10月24日7:00对业务系统进行升级，届时我公司所有服务渠道将暂停",
-   "page_url": "https://www.10086.cn/aboutus/news/pannounce/sh/index_210_210_detail_56053.html",
    "status": "on"
   },
   {
@@ -1831,10 +1831,10 @@
   {
    "section": "shanghai",
    "name": "上海",
-   "count": 198,
-   "active": 198,
+   "count": 199,
+   "active": 199,
    "removed": 0,
-   "updated": "2026-11-24 00:44"
+   "updated": "2026-11-25 00:04"
   },
   {
    "section": "jiangsu",

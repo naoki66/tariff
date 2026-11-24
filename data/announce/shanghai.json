@@ -1,7 +1,27 @@
 {
- "updated": "2026-11-24 00:44",
- "count": 198,
+ "updated": "2026-11-25 00:04",
+ "count": 199,
  "items": [
+  {
+   "id": "56270",
+   "title": "关于2027年度中国移动通信集团上海有限公司金山分公司公开寻源租赁营业厅用房公示（上半年）",
+   "date": "2026-11-25",
+   "page_url": "https://www.10086.cn/aboutus/news/pannounce/sh/index_210_210_detail_56270.html",
+   "status": "on",
+   "first_seen": "2026-11-25 00:03",
+   "summary": "中国移动通信集团上海有限公司金山分公司以公开方式寻源租赁营业厅用房的需求。现结合2027年1月-6月份金山分公司营业厅租约到期情况、房东情况及拟新建营业厅区域情况，通过公开方式开展营业厅用房寻源，本次拟公开租赁需求共2处（详见附件）。 附件",
+   "content": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;中国移动通信集团上海有限公司金山分公司以公开方式寻源租赁营业厅用房的需求。现结合<a date=\"1794982100045\" style=\"color:inherit\">2027年1月</a>-6月份金山分公司营业厅租约到期情况、房东情况及拟新建营业厅区域情况，通过公开方式开展营业厅用房寻源，本次拟公开租赁需求共2处（详见附件）。</p>\n<p><a href=\"https://www.10086.cn/uploadBaseDir/content/xlsx/20260513/20260513163717219Y9H.xlsx\" target=\"_blank\" download=\"涉及小区业务影响清单.xlsx\"></a></p>\n<p><a href=\"https://www.10086.cn/uploadBaseDir/content/pdf/20261118/20261118141613719Spk.pdf\" target=\"_blank\" download=\"附件2：公开方式寻源租赁营业厅用房需求.pdf\">附件2：公开方式寻源租赁营业厅用房需求.pdf</a></p>\n<p><br>\n</p>\n<p><br>\n</p>\n<p style=\"text-align:right\">中国移动通信集团上海有限公司</p>\n<p style=\"text-align:right\"><a date=\"1750208400000\" style=\"color:inherit\">&nbsp;</a><a date=\"1774227600000\" style=\"color:inherit\">2026年11月25日</a></p>",
+   "attachments": [
+    {
+     "name": "20260513163717219Y9H.xlsx",
+     "url": "https://www.10086.cn/uploadBaseDir/content/xlsx/20260513/20260513163717219Y9H.xlsx"
+    },
+    {
+     "name": "附件2：公开方式寻源租赁营业厅用房需求.pdf",
+     "url": "https://www.10086.cn/uploadBaseDir/content/pdf/20261118/20261118141613719Spk.pdf"
+    }
+   ]
+  },
   {
    "id": "56257",
    "title": "特服号码割接公告",
@@ -1649,6 +1669,6 @@
  ],
  "section": "shanghai",
  "name": "上海",
- "active": 198,
+ "active": 199,
  "removed": 0
 }
