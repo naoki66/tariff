@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24 02:54",
+ "updated": "2026-11-24 12:06",
  "count": 176,
  "items": [
   {
@@ -10,6 +10,26 @@
    "date": "2026-11-26",
    "summary": "尊敬的用户，您好！因业务发展调整，2026年12月31日24时起福建省内中国移动CMCC、CMCC-WEB、CMCC-FJ、CMCC-EDU网络将停止服务，已订",
    "page_url": "https://www.10086.cn/aboutus/news/pannounce/fj/index_591_591_detail_56216.html",
+   "status": "on"
+  },
+  {
+   "id": "56259",
+   "prov": "neimenggu",
+   "prov_name": "内蒙古",
+   "title": "锡林郭勒分公司2026年引商入柜（第二期）项目结果公示",
+   "date": "2026-11-24",
+   "summary": "锡林郭勒分公司2026年引商入柜（第二期）项目于2026年11月3日15：00开始竞争性谈判，现将中选候选人公示如下： 标段1自营锡市察哈尔营业厅（一楼）成交人",
+   "page_url": "https://www.10086.cn/aboutus/news/pannounce/nm/index_471_471_detail_56259.html",
+   "status": "on"
+  },
+  {
+   "id": "56258",
+   "prov": "neimenggu",
+   "prov_name": "内蒙古",
+   "title": "中国移动内蒙古有限公司巴彦淖尔分公司关于对全市16个自控厅店招商项目-二次招商公告",
+   "date": "2026-11-24",
+   "summary": "中国移动内蒙古有限公司巴彦淖尔分公司关于对全市16个自控厅店招商项目，由于一次招商公告供应商报名人数不满足谈判，进行二次招商公告。招商人为中国移动内蒙古有限公司",
+   "page_url": "https://www.10086.cn/aboutus/news/pannounce/nm/index_471_471_detail_56258.html",
    "status": "on"
   },
   {
@@ -293,16 +313,6 @@
    "status": "on"
   },
   {
-   "id": "56201",
-   "prov": "neimenggu",
-   "prov_name": "内蒙古",
-   "title": "中国移动包头分公司2026年部分自有房屋引商招募公告",
-   "date": "2026-11-20",
-   "summary": "本项目由中国移动通信集团内蒙古有限公司包头分公司组织实施。包头分公司现启动昆区等5处自有房屋引商项目招募工作，自治区范围内符合资格要求的意向合作商均可报名参与竞",
-   "page_url": "https://www.10086.cn/aboutus/news/pannounce/nm/index_471_471_detail_56201.html",
-   "status": "on"
-  },
-  {
    "id": "56195",
    "prov": "hunan",
    "prov_name": "湖南",
@@ -520,16 +530,6 @@
    "date": "2026-11-10",
    "summary": "中国移动通信集团山西有限公司【吕梁】分公司（以下简称：【吕梁】移动）2026年第6批自控厅委托加盟合作伙伴评估引入项目（项目编号：LL202606）已按照相关规",
    "page_url": "https://www.10086.cn/aboutus/news/pannounce/sx/index_351_351_detail_56179.html",
-   "status": "on"
-  },
-  {
-   "id": "56178",
-   "prov": "neimenggu",
-   "prov_name": "内蒙古",
-   "title": "阿尔山市分公司2026年3家托加盟店引入项目公告",
-   "date": "2026-11-10",
-   "summary": "一、货物名称、数量及主要技术参数： 加盟店名称 房屋地址 整体面积 （平方米） 引入面积 （平方米) 引入数量 （家） 履约保证金 （元/年） 租金下限 （元/",
-   "page_url": "https://www.10086.cn/aboutus/news/pannounce/nm/index_471_471_detail_56178.html",
    "status": "on"
   },
   {
@@ -1799,10 +1799,10 @@
   {
    "section": "neimenggu",
    "name": "内蒙古",
-   "count": 80,
-   "active": 80,
+   "count": 82,
+   "active": 82,
    "removed": 0,
-   "updated": "2026-11-23 16:19"
+   "updated": "2026-11-24 12:06"
   },
   {
    "section": "liaoning",
