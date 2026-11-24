@@ -1,7 +1,34 @@
 {
- "updated": "2026-11-23 16:19",
- "count": 110,
+ "updated": "2026-11-24 17:03",
+ "count": 112,
  "items": [
+  {
+   "id": "56265",
+   "title": "关于对龙江移动云盘400G融合空间月卡权益包等1115款资费停止服务的公告",
+   "date": "2026-11-24",
+   "page_url": "https://www.10086.cn/aboutus/news/pannounce/hl/index_451_451_detail_56265.html",
+   "status": "on",
+   "first_seen": "2026-11-24 17:03",
+   "summary": "尊敬的客户： 您好！ 因业务优化升级与发展调整，龙江移动云盘400G融合空间月卡权益包等1115款资费产品将于2026年12月30日24:00正式下线，下线后将停止相关服务。业务下线后，不再收取任何功能费用，并自动为您解除业务订购关系，无需",
+   "content": "<p style=\"text-align:left\">尊敬的客户：</p>\n<p style=\"text-align:left\">&nbsp; &nbsp; &nbsp; &nbsp;您好！</p>\n<p style=\"text-align:left\">&nbsp; &nbsp; &nbsp; &nbsp;因业务优化升级与发展调整，龙江移动云盘400G融合空间月卡权益包等1115款资费产品将于2026年12月30日24:00正式下线，下线后将停止相关服务。业务下线后，不再收取任何功能费用，并自动为您解除业务订购关系，无需您额外操作。如有疑问您可拨打客服热线10086咨询处理。</p>\n<p style=\"text-align:left\">&nbsp; &nbsp; &nbsp; &nbsp;给您带来不便敬请谅解，感谢您对中国移动的理解和支持，特此公告!</p>\n<p style=\"text-align:left\"><br>\n</p>\n<p style=\"text-align:left\">&nbsp; &nbsp; &nbsp; &nbsp;附件：<a href=\"https://www.10086.cn/uploadBaseDir/content/xlsx/20261124/20261124160851540mxz.xlsx\" target=\"_blank\" download=\"待停止服务资费产品清单（公告）.xlsx\">待停止服务资费产品清单（公告）.xlsx</a></p>\n<p style=\"text-align:justify\">&nbsp;</p>\n<p style=\"text-align:right\">中国移动通信集团黑龙江有限公司</p>\n<p style=\"text-align:right\">2026年11月24日</p>",
+   "attachments": [
+    {
+     "name": "待停止服务资费产品清单（公告）.xlsx",
+     "url": "https://www.10086.cn/uploadBaseDir/content/xlsx/20261124/20261124160851540mxz.xlsx"
+    }
+   ]
+  },
+  {
+   "id": "56264",
+   "title": "关于黑龙江移动系统升级优化的公告（2026-11）",
+   "date": "2026-11-24",
+   "page_url": "https://www.10086.cn/aboutus/news/pannounce/hl/index_451_451_detail_56264.html",
+   "status": "on",
+   "first_seen": "2026-11-24 17:03",
+   "summary": "尊敬的客户： 您好！为了向您提供更为优质的服务，我公司将于2026年11月26日23:00至2026年11月27日07:00期间进行系统升级，期间将暂停（影响或部分影响）全省营业前台、10086客服系统、短信营业厅、充值卡、微信公众号、小移",
+   "content": "<p>尊敬的客户：</p>\n<p>&nbsp; &nbsp; &nbsp; &nbsp;您好！为了向您提供更为优质的服务，我公司将于2026年11月26日23:00至2026年11月27日07:00期间进行系统升级，期间将暂停（影响或部分影响）全省营业前台、10086客服系统、短信营业厅、充值卡、微信公众号、小移零售、小移政企、小移权益及中国移动APP等业务受理，提醒短信延迟（包含扣费提醒短信、催费提醒短信、生效提醒短信）、停机延迟，各渠道账单及套餐优惠信息无法查询。给您带来的不便，敬请谅解！</p>\n<p style=\"text-align:right\">中国移动通信集团黑龙江有限公司</p>\n<div>2026年11月24日</div><br>",
+   "attachments": []
+  },
   {
    "id": "56251",
    "title": "关于对移动高清4款资费停止服务的公告",
@@ -981,6 +1008,6 @@
  ],
  "section": "heilongjiang",
  "name": "黑龙江",
- "active": 110,
+ "active": 112,
  "removed": 0
 }

@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-01 01:41",
- "count": 80,
+ "updated": "2026-11-24 17:03",
+ "count": 81,
  "items": [
+  {
+   "id": "56261",
+   "title": "关于12580部分产品资费下线的公告",
+   "date": "2026-11-24",
+   "page_url": "https://www.10086.cn/aboutus/news/pannounce/zj/index_571_571_detail_56261.html",
+   "status": "on",
+   "first_seen": "2026-11-24 17:03",
+   "summary": "尊敬的客户，您好： 因业务优化调整，自2026年12月28日24时起，我司12580部分产品资费将下线并停止提服务，具体下线资费清单请见公告附件。 已订购附件清单里的业务资费产品的用户，在本次下线的相关资费产品停止服务时，将为您自动办理退订",
+   "content": "<p>尊敬的客户，您好：<br>\n\n &nbsp; &nbsp; &nbsp; 因业务优化调整，自2026年12月28日24时起，我司12580部分产品资费将下线并停止提服务，具体下线资费清单请见公告附件。<br>\n\n &nbsp; &nbsp; &nbsp; 已订购附件清单里的业务资费产品的用户，在本次下线的相关资费产品停止服务时，将为您自动办理退订，无需您手动操作。在产品资费下线后，相关服务将不再提供，亦不再收取相应费用。<br>\n\n &nbsp; &nbsp; &nbsp;本次调整仅涉及附件清单里的业务资费，不影响用户号码的正常使用及其他已订购业务。<br>\n\n &nbsp; &nbsp; &nbsp;您也可以提前通过以下方式自行退订：打开“中国移动”APP，进入“已订业务”退订，或者拨打10086客服进行退订。<br>\n\n &nbsp; &nbsp; &nbsp; 由此给您带来的不便，敬请谅解，感谢您的理解与支持。如有疑问，可致电10086咨询。<br>\n<br>\n&nbsp; &nbsp; &nbsp; &nbsp;特此公告。&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>\n<p><br>\n</p>\n<p><br>\n</p>\n<div style=\"text-align:right\">中国移动通信集团浙江有限公司</div><p style=\"text-align:right\">&nbsp; 2026年11月24日</p>\n<p><br>\n</p>\n<p><br>\n</p>\n<p>附件：12580部分产品资费下线明细&nbsp;</p>\n<a href=\"https://www.10086.cn/uploadBaseDir/content/xlsx/20261124/20261124145132435afL.xlsx\" target=\"_blank\" download=\"关于12580部分产品资费下线明细.xlsx\">关于12580部分产品资费下线明细.xlsx</a><br>\n<p><br>\n</p>\n<div style=\"text-align:right\"><br>\n</div><p style=\"text-align:right\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>\n<p><br>\n</p>\n<p><br>\n</p>",
+   "attachments": [
+    {
+     "name": "关于12580部分产品资费下线明细.xlsx",
+     "url": "https://www.10086.cn/uploadBaseDir/content/xlsx/20261124/20261124145132435afL.xlsx"
+    }
+   ]
+  },
   {
    "id": "56082",
    "title": "关于公众WLAN业务下线的公告",
@@ -665,6 +681,6 @@
  ],
  "section": "zhejiang",
  "name": "浙江",
- "active": 80,
+ "active": 81,
  "removed": 0
 }
