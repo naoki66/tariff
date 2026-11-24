@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24 17:03",
+ "updated": "2026-11-24 19:15",
  "count": 176,
  "items": [
   {
@@ -10,6 +10,26 @@
    "date": "2026-11-26",
    "summary": "尊敬的用户，您好！因业务发展调整，2026年12月31日24时起福建省内中国移动CMCC、CMCC-WEB、CMCC-FJ、CMCC-EDU网络将停止服务，已订",
    "page_url": "https://www.10086.cn/aboutus/news/pannounce/fj/index_591_591_detail_56216.html",
+   "status": "on"
+  },
+  {
+   "id": "56269",
+   "prov": "ningxia",
+   "prov_name": "宁夏",
+   "title": "中国移动宁夏公司个人信息处理规则",
+   "date": "2026-11-24",
+   "summary": "1.您的通信自由和通信秘密不受侵犯，我们对您的资料和通信信息负有保密义务。但根据法律、行政法规规定，司法、行政机关依法要求我们提供协助和配合，我们应给予协助和配",
+   "page_url": "https://www.10086.cn/aboutus/news/pannounce/nx/index_951_951_detail_56269.html",
+   "status": "on"
+  },
+  {
+   "id": "56268",
+   "prov": "ningxia",
+   "prov_name": "宁夏",
+   "title": "中国移动宁夏公司十四周岁以下未成年人 个人信息处理规则",
+   "date": "2026-11-24",
+   "summary": "我们依据《个人信息保护法》《未成年人保护法》《儿童个人信息网络保护规定》《未成年人网络保护条例》等法律法规，特向您清晰、透明地说明我们如何处理敏感个人信息以及未",
+   "page_url": "https://www.10086.cn/aboutus/news/pannounce/nx/index_951_951_detail_56268.html",
    "status": "on"
   },
   {
@@ -1603,16 +1623,6 @@
    "status": "on"
   },
   {
-   "id": "39701",
-   "prov": "ningxia",
-   "prov_name": "宁夏",
-   "title": "中国移动通信集团宁夏有限公司2020年环评备案信息公示",
-   "date": "2021-08-18",
-   "summary": "尊敬的客户: 为了切实做好环境保护工作，根据《中华人民共和国环境影响评价法》、《建设项目环境保护管理条例》(国务院第253号令)和《建设项目环境保护分类管理名录",
-   "page_url": "https://www.10086.cn/aboutus/news/pannounce/nx/index_951_951_detail_39701.html",
-   "status": "on"
-  },
-  {
    "id": "38034",
    "prov": "qinghai",
    "prov_name": "青海",
@@ -1620,16 +1630,6 @@
    "date": "2021-01-15",
    "summary": "为保护和改善环境,保障公众健康，贯彻执行《中华入学和国环境保护法> 和《关于印发〈通信基站环境保护工作备忘录〉的通知》（环办辐射函[2017]1990号文的要求",
    "page_url": "https://www.10086.cn/aboutus/news/pannounce/qh/index_971_971_detail_38034.html",
-   "status": "on"
-  },
-  {
-   "id": "37382",
-   "prov": "ningxia",
-   "prov_name": "宁夏",
-   "title": "中国移动通信集团宁夏有限公司天猫官方旗舰店代运营合作伙伴招募公告",
-   "date": "2020-11-28",
-   "summary": "尊敬的合作伙伴： 您好! 中国移动通信集团宁夏有限公司（以下简称为“宁夏移动”）本着“诚信、公平、双赢”的原则，特面向社会公开招募第三方团队代运营天猫平台上的宁",
-   "page_url": "https://www.10086.cn/aboutus/news/pannounce/nx/index_951_951_detail_37382.html",
    "status": "on"
   },
   {
@@ -1999,10 +1999,10 @@
   {
    "section": "ningxia",
    "name": "宁夏",
-   "count": 58,
-   "active": 58,
+   "count": 60,
+   "active": 60,
    "removed": 0,
-   "updated": "2026-10-27 22:09"
+   "updated": "2026-11-24 19:15"
   },
   {
    "section": "xinjiang",
